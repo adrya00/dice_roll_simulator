@@ -1,3 +1,4 @@
+# Dice Rolling Simulator 
 import random
 
 playing = True
