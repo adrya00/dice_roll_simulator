@@ -16,3 +16,4 @@ while playing:
         break
     else:
         print("Incorrect Entry. Please press R or E")
+        
